@@ -1,0 +1,23 @@
+body{
+  background: rgb(10, 2, 48);
+}
+
+#counter{
+  text-align: center;
+  font-size: 200%;
+  position: fixed;
+  width: 200px;
+  height: 50px;
+  background: whitesmoke;
+  left: 40vw;
+  top: 20px;
+}
+
+#makered{
+  position: fixed;
+  width: 200px;
+  height: 50px;
+  background: red;
+  left: 40vw;
+  bottom: 20px;
+}
